@@ -23,7 +23,7 @@ Your Solana staking application is now complete and running. Here's what has bee
 ### Key Features Implemented
 1. ✅ Phantom wallet connection
 2. ✅ SOL airdrop on devnet
-3. ✅ Token purchase simulation
+3. ✅ Token purchase functionality 
 4. ✅ Token staking functionality
 5. ✅ Token unstaking functionality
 6. ✅ Reward tracking and claiming
