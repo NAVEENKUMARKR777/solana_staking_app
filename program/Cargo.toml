@@ -1,0 +1,16 @@
+[package]
+name = "solana-staking-program"
+version = "0.1.0"
+edition = "2021"
+description = "A Solana staking program for tokens"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+
+[dependencies]
+solana-program = "~1.16.0"
+borsh = "0.10.3"
+thiserror = "1.0.38"
+
+[features]
+no-entrypoint = [] 
