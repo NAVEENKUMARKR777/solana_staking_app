@@ -272,7 +272,7 @@ If you encounter any issues:
 
 ## 🎯 Demo Video
 
-[Add your demo video link here]
+https://drive.google.com/file/d/1JMSzDtCnWjLDRCm6Y99qi7kKCWwdCp5f/view?usp=sharing
 
 ---
 
